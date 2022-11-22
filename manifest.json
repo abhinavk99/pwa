@@ -1,7 +1,7 @@
 {
   "background_color": "purple",
   "theme_color": "red",
-  "description": "Web App URL Handlers sample app.",
+  "description": "Web App Scope Extensions sample app.",
   "display": "standalone",
   "icons": [
     {
@@ -10,15 +10,15 @@
       "type": "image/png"
     }
   ],
-  "name": "Web App URL Handlers Sample App",
-  "short_name": "Web App URL Handlers",
+  "name": "Web App Scope Extensions Sample App",
+  "short_name": "Web App Scope Extensions",
   "start_url": "./index.html",
-  "url_handlers": [
+  "scope_extensions": [
     {
-      "origin": "https://luhuangmsft.github.io"
+      "origin": "https://abhinavk99.github.io"
     },
     {
-      "origin": "https://mandymsft.github.io"
+      "origin": "https://abhinavk99.netlify.app"
     }
   ]
 }
